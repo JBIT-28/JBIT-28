@@ -20,6 +20,7 @@
 
 
 
+
 <h1>About Me </h1>
 - 🔭 I’m currently working on ...CompTIA A+ Certification with a projected completion of 11/2024.
 - 🌱 I’m currently learning ...All things Tech💻 ! And Philosophy 📚 💭.
