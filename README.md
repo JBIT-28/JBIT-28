@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica! Thanks for Stoping by🙂 <br/><a href="https://github.com/JBIT-28">Aspiring IT Specialist</a>
+<h1>Hi, I'm Jessica! Thanks for Stopping by🙂 <br/><a href="https://github.com/JBIT-28">Aspiring IT Specialist</a>
 <h2>👨‍💻 IT Portfolio Projects:</h2>
 
 - <b>Virtualization Case Study: Part One</b>
