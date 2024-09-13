@@ -1,43 +1,28 @@
 <h1>Hi, I'm Jessica! Thanks for Stoping by🙂 <br/><a href="https://github.com/JBIT-28">Aspiring IT Specialist</a>
 <h2>👨‍💻 IT Portfolio Projects:</h2>
 
-- <b>Virtualization Case Study Part One</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Virtualization Case Study: Part One</b>
+  - [Oracle Virtualbox and Unbuntu](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1f7eed1-5bcc-4927-867f-bcf5f47619ea)
 - <b>Cisco Router Security Configuration Lab</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - Stay Tuned! <b>
 
 
-<h2>📺 Content (Comming soon!) </h2>
+<h2>📺 Content </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Coming Soon!🎬
 
-<h2> 🤳 Connect with me:</h2>
+<h1>Let's Connect!📱 </h1>
+## Connect with me:
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jessica-b-41a42a91)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NavigatingTech)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/13147997767)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>About Me </h1>
+- 🔭 I’m currently working on ...CompTIA A+ Certification with a projected completion of 11/2024.
+- 🌱 I’m currently learning ...All things Tech💻 ! And Philosophy 📚 💭.
+- 🤔 I’m looking for help with ...Narrowing down what I want to specialize in.
+- ⚡ Fun fact: In a past life I was a competitive powerlifter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
