@@ -3,8 +3,11 @@
 
 - <b>Virtualization Case Study: Part One</b>
   - [Oracle Virtualbox and Unbuntu](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1f7eed1-5bcc-4927-867f-bcf5f47619ea)
-- <b>Cisco Router Security Configuration Lab</b>
-  - Stay Tuned! <b>
+-  <b>Cisco Router Security Configuration Lab</b>
+    - [Router Security Configuration: Password Encryption](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2cc2ab99-0ebe-4149-bf24-ae89aab08340)
+ - <b>Cisco Router Security Configuration Lab 2</b>
+    - [Router Security Configuration: Secret](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:06a43b36-db38-44ee-9d4c-fecf931b0642)
+  
 
 <h2>Certifications:</h2>
 
