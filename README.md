@@ -6,12 +6,23 @@
 - <b>Cisco Router Security Configuration Lab</b>
   - Stay Tuned! <b>
 
+<h2>Certifications:</h2>
+
+![Image Description](https://imgur.com/rNcOP2F.jpeg)
+
+![Image Description](https://imgur.com/r3rdLme.jpg)
+
+
+
+
+
+
 
 <h2>📺 Content </h2>
 
 - Coming Soon!🎬
 
-<h1>Let's Connect!📱 </h1>
+<h2>Let's Connect!📱 </h2>
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-b-41a42a91)
@@ -21,7 +32,7 @@
 
 
 
-<h1>About Me </h1>
+<h2>About Me </h2>
 - 🔭 I’m currently working on ...CompTIA A+ Certification with a projected completion of 11/2024.
 - 🌱 I’m currently learning ...All things Tech💻 ! And Philosophy 📚 💭.
 - 🤔 I’m looking for help with ...Narrowing down what I want to specialize in.
