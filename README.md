@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica! Thanks for Stopping by🙂 <br/><a href="https://github.com/JBIT-28">Aspiring IT Specialist</a>
+<h1>Hi, I'm Jessica! Welcome! 🙂 <br/><a href="https://github.com/JBIT-28">Aspiring IT Specialist</a>
 <h2>👨‍💻 IT Portfolio Projects:</h2>
 
 - <b>Virtualization Case Study: Part One</b>
@@ -37,7 +37,7 @@
 
 <h2>About Me </h2>
 - 🔭 I’m currently working on ...CompTIA A+ Certification with a projected completion of 11/2024.
-- 🌱 I’m currently learning ...All things Tech💻 ! And Philosophy 📚 💭.
+- 🌱 I’m currently learning ...In my free time I am learning Python, and reading as much as I can. 📚 💭.
 - 🤔 I’m looking for help with ...Narrowing down what I want to specialize in.
 - ⚡ Fun fact: In a past life I was a competitive powerlifter.
 
