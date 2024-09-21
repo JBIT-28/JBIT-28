@@ -39,5 +39,5 @@ Connect with me on:
 - 🔭 I’m currently working on ...CompTIA A+ Certification with a projected completion of 11/2024.
 - 🌱 I’m currently learning ...In my free time I am learning Python, and reading as much as I can. 📚 💭.
 - 🤔 I’m looking for help with ...Narrowing down what I want to specialize in.
-- ⚡ Fun fact: In a past life I was a competitive powerlifter.
+- ⚡ Fun fact: I am a former competitive powerlifter.
 
