@@ -29,9 +29,20 @@
 - Coming soon!🎬
 <h3>Exam Study Guides and Cheat Sheets</h3>
 <h4>Networking</h4>
--<b>[TCP/IP Protocols by TCP/IP Layer] (https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:95a1df0a-c107-433e-b772-6890fa929a29)</b>
- 
+ <b>TCP/IP Protocols</b>
+   
+   [TCP/IP Protocols by TCP/IP Model Layer](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:95a1df0a-c107-433e-b772-6890fa929a29)
 
+  <b>802.11 Standards</b>
+  
+  [802.11 Table](https://1drv.ms/x/s!AsMxPLVH8l_7rVj2JjKXfrqangqK?e=934fZr&nav=MTVfezJBREI5NDgwLTNDRUUtNEJDMC04Mjg5LTE5MkQxRTRBM0VBQn0)   
+
+
+<h4>Operating Systems</h4>
+<b>Windows</b>
+  
+  [Windows Command Prompt Flags](https://1drv.ms/x/s!AsMxPLVH8l_7rCAGlNAHwUMJurGL?e=iy0qvF&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
+ 
 <h2>Let's Connect!📱 </h2>
 Connect with me on:
 
