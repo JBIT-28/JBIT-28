@@ -1,5 +1,7 @@
-<h1>Hi, I'm Jessica! Welcome! 🙂 <br/><a href="https://github.com/JBIT-28">IT Professional</a>
-<h2>👨‍💻 IT Portfolio Projects:</h2>
+<h1>Jessica Bryant-Sharpe, IT Professional</h1>
+<h1></h>IT Portfolio</h1>
+
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Virtualization Case Study: Part One</b>
   - [Oracle Virtualbox and Unbuntu](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1f7eed1-5bcc-4927-867f-bcf5f47619ea)
@@ -54,7 +56,7 @@ Connect with me on:
 
 
 <h2>About Me </h2>
-- 🔭 I’m currently working on ...CompTIA A+ Certification with a projected completion of 11/2024.
+- 🔭 I'm currently working on... Refining my coding and networking skills, planning my next projects, and looking for options to further my education.
 - 🌱 I’m currently learning ...In my free time I am learning Python, and reading as much as I can. 📚 💭.
 - 🤔 I’m looking for help with ...Narrowing down what I want to specialize in.
 - ⚡ Fun fact: I am a former competitive powerlifter.
