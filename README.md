@@ -2,7 +2,6 @@
   <h1>Jessica Bryant-Sharpe, IT Professional</h1>
   <h2></h>IT Portfolio</h2>
 </main>
-
 <h3>👨‍💻 Projects:</h3>
 
 - <b>Virtualization Case Study: Part One</b>
@@ -24,9 +23,7 @@
 
 
 
-
-
-
+<section>
 <h3>📺 Content </h3>
 
   <h4>Youtube Videos</h4>
@@ -46,6 +43,7 @@
 <b>Windows</b>
   
   [Windows Command Prompt Flags](https://1drv.ms/x/s!AsMxPLVH8l_7rCAGlNAHwUMJurGL?e=iy0qvF&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
+</Section>
  
 <h2>Let's Connect!📱 </h2>
 Connect with me on:
