@@ -1,5 +1,5 @@
-<h1>Jessica Bryant-Sharpe, IT Professional</h1>
-<h2></h>IT Portfolio</h2>
+<main><h1>Jessica Bryant-Sharpe, IT Professional</h1>
+<h2></h>IT Portfolio</h2></main>
 
 <h3>👨‍💻 Projects:</h3>
 
