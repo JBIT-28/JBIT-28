@@ -29,7 +29,7 @@
 - Coming soon!🎬
 <h3>Exam Study Guides and Cheat Sheets</h3>
 <h4>Networking</h4>
--<b>[TCP/IP Protocols by TCP/IP Layer](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1f7eed1-5bcc-4927-867f-bcf5f47619ea)(https://1drv.ms/b/s!AsMxPLVH8l_7rVPax4w3CH0KLnIy?e=Db0YTy)</b>
+-<b>[TCP/IP Protocols by TCP/IP Layer] (https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:95a1df0a-c107-433e-b772-6890fa929a29)</b>
  
 
 <h2>Let's Connect!📱 </h2>
