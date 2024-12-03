@@ -28,7 +28,7 @@
 <h3>📺 Content </h3>
 
   <h4>Youtube Videos</h4>
-  - Coming soon!🎬
+  - <strong>Coming soon</strong>!🎬
 <h4>Exam Study Guides and Cheat Sheets</h4>
 <h5>Networking</h5>
  <b>TCP/IP Protocols</b>
