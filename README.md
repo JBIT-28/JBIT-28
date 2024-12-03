@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica! Welcome! 🙂 <br/><a href="https://github.com/JBIT-28">Aspiring IT Specialist</a>
+<h1>Hi, I'm Jessica! Welcome! 🙂 <br/><a href="https://github.com/JBIT-28">IT Professional</a>
 <h2>👨‍💻 IT Portfolio Projects:</h2>
 
 - <b>Virtualization Case Study: Part One</b>
@@ -10,6 +10,8 @@
   
 
 <h2>Certifications:</h2>
+
+![Image Description](https://i.imgur.com/D4fA5xA.png)
 
 ![Image Description](https://imgur.com/rNcOP2F.jpeg)
 
@@ -23,7 +25,12 @@
 
 <h2>📺 Content </h2>
 
-- Coming Soon!🎬
+<h3>Youtube Videos</h3>
+- Coming soon!🎬
+<h3>Exam Study Guides and Cheat Sheets</h3>
+<h4>Networking</h4>
+-<b>[TCP/IP Protocols by TCP/IP Layer](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c1f7eed1-5bcc-4927-867f-bcf5f47619ea)(https://1drv.ms/b/s!AsMxPLVH8l_7rVPax4w3CH0KLnIy?e=Db0YTy)</b>
+ 
 
 <h2>Let's Connect!📱 </h2>
 Connect with me on:
