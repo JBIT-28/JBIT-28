@@ -1,6 +1,6 @@
 <main>
   <h1>Jessica Bryant-Sharpe, IT Professional</h1>
-<h2></h>IT Portfolio</h2>
+  <h2></h>IT Portfolio</h2>
 </main>
 
 <h3>👨‍💻 Projects:</h3>
@@ -15,11 +15,11 @@
 
 <h3>Certifications:</h3>
 
-![Image Description](https://i.imgur.com/D4fA5xA.png)
+  ![Image Description](https://i.imgur.com/D4fA5xA.png)
 
-![Image Description](https://imgur.com/rNcOP2F.jpeg)
+  ![Image Description](https://imgur.com/rNcOP2F.jpeg)
 
-![Image Description](https://imgur.com/r3rdLme.jpg)
+  ![Image Description](https://imgur.com/r3rdLme.jpg)
 
 
 
@@ -29,17 +29,17 @@
 
 <h3>📺 Content </h3>
 
-<h4>Youtube Videos</h4>
-- Coming soon!🎬
+  <h4>Youtube Videos</h4>
+  - Coming soon!🎬
 <h4>Exam Study Guides and Cheat Sheets</h4>
 <h5>Networking</h5>
  <b>TCP/IP Protocols</b>
    
-   [TCP/IP Protocols by TCP/IP Model Layer](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:95a1df0a-c107-433e-b772-6890fa929a29)
+  [TCP/IP Protocols by TCP/IP Model Layer](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:95a1df0a-c107-433e-b772-6890fa929a29)
 
   <b>802.11 Standards</b>
   
-  [802.11 Table](https://1drv.ms/x/s!AsMxPLVH8l_7rVj2JjKXfrqangqK?e=934fZr&nav=MTVfezJBREI5NDgwLTNDRUUtNEJDMC04Mjg5LTE5MkQxRTRBM0VBQn0)   
+ [802.11 Table](https://1drv.ms/x/s!AsMxPLVH8l_7rVj2JjKXfrqangqK?e=934fZr&nav=MTVfezJBREI5NDgwLTNDRUUtNEJDMC04Mjg5LTE5MkQxRTRBM0VBQn0)   
 
 
 <h5>Operating Systems</h5>
