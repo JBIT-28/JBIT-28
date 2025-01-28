@@ -13,18 +13,6 @@
  - <b>Cisco Router Security Configuration Lab 2</b>
     - [Router Security Configuration: Secret](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:06a43b36-db38-44ee-9d4c-fecf931b0642)
  </section> 
-<section>
-  <hr/>
-<h3>Certifications:</h3>
-
-  ![Image Description](https://i.imgur.com/D4fA5xA.png)
-
-  ![Image Description](https://imgur.com/rNcOP2F.jpeg)
-
-  ![Image Description](https://imgur.com/r3rdLme.jpg)
-</section>
-
-
 
 <section>
   <hr/>
