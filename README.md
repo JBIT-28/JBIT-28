@@ -1,4 +1,5 @@
 <main>
+  <hr/>
   <h1>Jessica Bryant-Sharpe, IT Professional</h1>
   <h2></h>IT Portfolio</h2>
 </main>
@@ -13,6 +14,7 @@
     - [Router Security Configuration: Secret](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:06a43b36-db38-44ee-9d4c-fecf931b0642)
  </section> 
 <section>
+  <hr/>
 <h3>Certifications:</h3>
 
   ![Image Description](https://i.imgur.com/D4fA5xA.png)
@@ -25,6 +27,7 @@
 
 
 <section>
+  <hr/>
 <h3>📺 Content </h3>
 
   <h4>Youtube Videos</h4>
@@ -46,6 +49,7 @@
   [Windows Command Prompt Flags](https://1drv.ms/x/s!AsMxPLVH8l_7rCAGlNAHwUMJurGL?e=iy0qvF&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
 </section>
 <section>
+  <hr/>
 <h2>Let's Connect!📱 </h2>
 Connect with me on:
 
@@ -56,6 +60,7 @@ Connect with me on:
 
 
 <section>
+  <hr/>
 <h2>About Me </h2>
 - 🔭 I'm currently working on... Refining my coding and networking skills, planning my next projects, and looking for options to further my education.
 - 🌱 I’m currently learning ...In my free time I am learning Python, and reading as much as I can. 📚 💭.
